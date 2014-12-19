@@ -1,0 +1,22 @@
+{
+  "name": "meaow_meaow",
+  "version": "0.0.0",
+  "authors": [
+    "Thanabodee Charoenpiriyakij <wingyminus@gmail.com>"
+  ],
+  "description": "Game application with phaser",
+  "main": "assets/js/app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "phaser": "~2.2.1"
+  }
+}
