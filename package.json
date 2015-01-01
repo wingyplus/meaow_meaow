@@ -1,0 +1,28 @@
+{
+  "name": "meaow_meaow",
+  "version": "1.0.0",
+  "description": "Meaow phaser sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wingyplus/meaow_meaow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wingyplus/meaow_meaow/issues"
+  },
+  "homepage": "https://github.com/wingyplus/meaow_meaow",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-traceur": "^0.15.0",
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-cli": "0.0.4",
+    "karma-jasmine": "^0.3.2"
+  }
+}
